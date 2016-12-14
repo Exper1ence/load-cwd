@@ -1,0 +1,8 @@
+{
+  "name": "load-cwd",
+  "version": "0.0.1",
+  "dependencies": {
+    "lodash": "^4.17.2",
+    "typical-function": "^0.1.4"
+  }
+}
